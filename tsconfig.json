@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "ES2017",
+    "module": "CommonJs",
+    "sourceMap": true,
+    "noImplicitAny": true,
+    "removeComments": true
+  }
+}
