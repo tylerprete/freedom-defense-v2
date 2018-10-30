@@ -1,0 +1,36 @@
+{
+    "ANIMATION": {
+        "name": "Game",
+        "SYMBOL_name": "FSM_small",
+        "TIMELINE": {
+            "LAYERS": [
+                {
+                    "Layer_name": "Layer_1",
+                    "Frames": [
+                        {
+                            "index": 0,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "ATLAS_SPRITE_instance": {
+                                        "name": "0000",
+                                        "Position": {
+                                            "x": -12.5,
+                                            "y": -11
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "SYMBOL_DICTIONARY": {
+        "Symbols": []
+    },
+    "metadata": {
+        "framerate": 30
+    }
+}

@@ -1,0 +1,2163 @@
+{
+    "ANIMATION": {
+        "name": "Game",
+        "SYMBOL_name": "Enemy_Books",
+        "TIMELINE": {
+            "LAYERS": [
+                {
+                    "Layer_name": "Frames",
+                    "Frames": [
+                        {
+                            "name": "Frame 1",
+                            "index": 0,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "SYMBOL_Instance": {
+                                        "SYMBOL_name": "Frame 1",
+                                        "Instance_Name": "",
+                                        "bitmap": {
+                                            "name": "0018",
+                                            "Position": {
+                                                "x": 0,
+                                                "y": 2
+                                            }
+                                        },
+                                        "symbolType": "movieclip",
+                                        "transformationPoint": {
+                                            "x": 0,
+                                            "y": 0
+                                        },
+                                        "Matrix3D": {
+                                            "m00": 1,
+                                            "m01": 0,
+                                            "m02": 0,
+                                            "m03": 0,
+                                            "m10": 0,
+                                            "m11": 1.17645,
+                                            "m12": 0,
+                                            "m13": 0,
+                                            "m20": 0,
+                                            "m21": 0,
+                                            "m22": 1,
+                                            "m23": 0,
+                                            "m30": -7,
+                                            "m31": -10,
+                                            "m32": 0,
+                                            "m33": 1
+                                        },
+                                        "DecomposedMatrix": {
+                                            "Position": {
+                                                "x": -7,
+                                                "y": -10,
+                                                "z": 0
+                                            },
+                                            "Rotation": {
+                                                "x": 0,
+                                                "y": -0,
+                                                "z": 0
+                                            },
+                                            "Scaling": {
+                                                "x": 1,
+                                                "y": 1.17645,
+                                                "z": 1
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "index": 1,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "SYMBOL_Instance": {
+                                        "SYMBOL_name": "Frame 1",
+                                        "Instance_Name": "",
+                                        "bitmap": {
+                                            "name": "0018",
+                                            "Position": {
+                                                "x": 0,
+                                                "y": 2
+                                            }
+                                        },
+                                        "symbolType": "movieclip",
+                                        "transformationPoint": {
+                                            "x": 0,
+                                            "y": 0
+                                        },
+                                        "Matrix3D": {
+                                            "m00": 1,
+                                            "m01": 0,
+                                            "m02": 0,
+                                            "m03": 0,
+                                            "m10": 0,
+                                            "m11": 1.17645,
+                                            "m12": 0,
+                                            "m13": 0,
+                                            "m20": 0,
+                                            "m21": 0,
+                                            "m22": 1,
+                                            "m23": 0,
+                                            "m30": -7,
+                                            "m31": -10,
+                                            "m32": 0,
+                                            "m33": 1
+                                        },
+                                        "DecomposedMatrix": {
+                                            "Position": {
+                                                "x": -7,
+                                                "y": -10,
+                                                "z": 0
+                                            },
+                                            "Rotation": {
+                                                "x": 0,
+                                                "y": -0,
+                                                "z": 0
+                                            },
+                                            "Scaling": {
+                                                "x": 1,
+                                                "y": 1.17645,
+                                                "z": 1
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Frame 2",
+                            "index": 2,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "SYMBOL_Instance": {
+                                        "SYMBOL_name": "Frame 2",
+                                        "Instance_Name": "",
+                                        "bitmap": {
+                                            "name": "0019",
+                                            "Position": {
+                                                "x": 0,
+                                                "y": 0
+                                            }
+                                        },
+                                        "symbolType": "movieclip",
+                                        "transformationPoint": {
+                                            "x": 0,
+                                            "y": 0
+                                        },
+                                        "Matrix3D": {
+                                            "m00": 1,
+                                            "m01": 0,
+                                            "m02": 0,
+                                            "m03": 0,
+                                            "m10": 0,
+                                            "m11": 1,
+                                            "m12": 0,
+                                            "m13": 0,
+                                            "m20": 0,
+                                            "m21": 0,
+                                            "m22": 1,
+                                            "m23": 0,
+                                            "m30": -7,
+                                            "m31": -10,
+                                            "m32": 0,
+                                            "m33": 1
+                                        },
+                                        "DecomposedMatrix": {
+                                            "Position": {
+                                                "x": -7,
+                                                "y": -10,
+                                                "z": 0
+                                            },
+                                            "Rotation": {
+                                                "x": 0,
+                                                "y": -0,
+                                                "z": 0
+                                            },
+                                            "Scaling": {
+                                                "x": 1,
+                                                "y": 1,
+                                                "z": 1
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "index": 3,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "SYMBOL_Instance": {
+                                        "SYMBOL_name": "Frame 2",
+                                        "Instance_Name": "",
+                                        "bitmap": {
+                                            "name": "0019",
+                                            "Position": {
+                                                "x": 0,
+                                                "y": 0
+                                            }
+                                        },
+                                        "symbolType": "movieclip",
+                                        "transformationPoint": {
+                                            "x": 0,
+                                            "y": 0
+                                        },
+                                        "Matrix3D": {
+                                            "m00": 1,
+                                            "m01": 0,
+                                            "m02": 0,
+                                            "m03": 0,
+                                            "m10": 0,
+                                            "m11": 1,
+                                            "m12": 0,
+                                            "m13": 0,
+                                            "m20": 0,
+                                            "m21": 0,
+                                            "m22": 1,
+                                            "m23": 0,
+                                            "m30": -7,
+                                            "m31": -10,
+                                            "m32": 0,
+                                            "m33": 1
+                                        },
+                                        "DecomposedMatrix": {
+                                            "Position": {
+                                                "x": -7,
+                                                "y": -10,
+                                                "z": 0
+                                            },
+                                            "Rotation": {
+                                                "x": 0,
+                                                "y": -0,
+                                                "z": 0
+                                            },
+                                            "Scaling": {
+                                                "x": 1,
+                                                "y": 1,
+                                                "z": 1
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Frame 3",
+                            "index": 4,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "SYMBOL_Instance": {
+                                        "SYMBOL_name": "Frame 3",
+                                        "Instance_Name": "",
+                                        "bitmap": {
+                                            "name": "0020",
+                                            "Position": {
+                                                "x": 0,
+                                                "y": 0
+                                            }
+                                        },
+                                        "symbolType": "movieclip",
+                                        "transformationPoint": {
+                                            "x": 0,
+                                            "y": 0
+                                        },
+                                        "Matrix3D": {
+                                            "m00": 1,
+                                            "m01": 0,
+                                            "m02": 0,
+                                            "m03": 0,
+                                            "m10": 0,
+                                            "m11": 1,
+                                            "m12": 0,
+                                            "m13": 0,
+                                            "m20": 0,
+                                            "m21": 0,
+                                            "m22": 1,
+                                            "m23": 0,
+                                            "m30": -7,
+                                            "m31": -10,
+                                            "m32": 0,
+                                            "m33": 1
+                                        },
+                                        "DecomposedMatrix": {
+                                            "Position": {
+                                                "x": -7,
+                                                "y": -10,
+                                                "z": 0
+                                            },
+                                            "Rotation": {
+                                                "x": 0,
+                                                "y": -0,
+                                                "z": 0
+                                            },
+                                            "Scaling": {
+                                                "x": 1,
+                                                "y": 1,
+                                                "z": 1
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "index": 5,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "SYMBOL_Instance": {
+                                        "SYMBOL_name": "Frame 3",
+                                        "Instance_Name": "",
+                                        "bitmap": {
+                                            "name": "0020",
+                                            "Position": {
+                                                "x": 0,
+                                                "y": 0
+                                            }
+                                        },
+                                        "symbolType": "movieclip",
+                                        "transformationPoint": {
+                                            "x": 0,
+                                            "y": 0
+                                        },
+                                        "Matrix3D": {
+                                            "m00": 1,
+                                            "m01": 0,
+                                            "m02": 0,
+                                            "m03": 0,
+                                            "m10": 0,
+                                            "m11": 1,
+                                            "m12": 0,
+                                            "m13": 0,
+                                            "m20": 0,
+                                            "m21": 0,
+                                            "m22": 1,
+                                            "m23": 0,
+                                            "m30": -7,
+                                            "m31": -10,
+                                            "m32": 0,
+                                            "m33": 1
+                                        },
+                                        "DecomposedMatrix": {
+                                            "Position": {
+                                                "x": -7,
+                                                "y": -10,
+                                                "z": 0
+                                            },
+                                            "Rotation": {
+                                                "x": 0,
+                                                "y": -0,
+                                                "z": 0
+                                            },
+                                            "Scaling": {
+                                                "x": 1,
+                                                "y": 1,
+                                                "z": 1
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Frame 4",
+                            "index": 6,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "SYMBOL_Instance": {
+                                        "SYMBOL_name": "Frame 4",
+                                        "Instance_Name": "",
+                                        "bitmap": {
+                                            "name": "0021",
+                                            "Position": {
+                                                "x": 0,
+                                                "y": 0
+                                            }
+                                        },
+                                        "symbolType": "movieclip",
+                                        "transformationPoint": {
+                                            "x": 0,
+                                            "y": 0
+                                        },
+                                        "Matrix3D": {
+                                            "m00": 1,
+                                            "m01": 0,
+                                            "m02": 0,
+                                            "m03": 0,
+                                            "m10": 0,
+                                            "m11": 1,
+                                            "m12": 0,
+                                            "m13": 0,
+                                            "m20": 0,
+                                            "m21": 0,
+                                            "m22": 1,
+                                            "m23": 0,
+                                            "m30": -7,
+                                            "m31": -10,
+                                            "m32": 0,
+                                            "m33": 1
+                                        },
+                                        "DecomposedMatrix": {
+                                            "Position": {
+                                                "x": -7,
+                                                "y": -10,
+                                                "z": 0
+                                            },
+                                            "Rotation": {
+                                                "x": 0,
+                                                "y": -0,
+                                                "z": 0
+                                            },
+                                            "Scaling": {
+                                                "x": 1,
+                                                "y": 1,
+                                                "z": 1
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "index": 7,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "SYMBOL_Instance": {
+                                        "SYMBOL_name": "Frame 4",
+                                        "Instance_Name": "",
+                                        "bitmap": {
+                                            "name": "0021",
+                                            "Position": {
+                                                "x": 0,
+                                                "y": 0
+                                            }
+                                        },
+                                        "symbolType": "movieclip",
+                                        "transformationPoint": {
+                                            "x": 0,
+                                            "y": 0
+                                        },
+                                        "Matrix3D": {
+                                            "m00": 1,
+                                            "m01": 0,
+                                            "m02": 0,
+                                            "m03": 0,
+                                            "m10": 0,
+                                            "m11": 1,
+                                            "m12": 0,
+                                            "m13": 0,
+                                            "m20": 0,
+                                            "m21": 0,
+                                            "m22": 1,
+                                            "m23": 0,
+                                            "m30": -7,
+                                            "m31": -10,
+                                            "m32": 0,
+                                            "m33": 1
+                                        },
+                                        "DecomposedMatrix": {
+                                            "Position": {
+                                                "x": -7,
+                                                "y": -10,
+                                                "z": 0
+                                            },
+                                            "Rotation": {
+                                                "x": 0,
+                                                "y": -0,
+                                                "z": 0
+                                            },
+                                            "Scaling": {
+                                                "x": 1,
+                                                "y": 1,
+                                                "z": 1
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Frame 5",
+                            "index": 8,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "SYMBOL_Instance": {
+                                        "SYMBOL_name": "Frame 5",
+                                        "Instance_Name": "",
+                                        "bitmap": {
+                                            "name": "0022",
+                                            "Position": {
+                                                "x": 0,
+                                                "y": 0
+                                            }
+                                        },
+                                        "symbolType": "movieclip",
+                                        "transformationPoint": {
+                                            "x": 0,
+                                            "y": 0
+                                        },
+                                        "Matrix3D": {
+                                            "m00": 1,
+                                            "m01": 0,
+                                            "m02": 0,
+                                            "m03": 0,
+                                            "m10": 0,
+                                            "m11": 1,
+                                            "m12": 0,
+                                            "m13": 0,
+                                            "m20": 0,
+                                            "m21": 0,
+                                            "m22": 1,
+                                            "m23": 0,
+                                            "m30": -7,
+                                            "m31": -10,
+                                            "m32": 0,
+                                            "m33": 1
+                                        },
+                                        "DecomposedMatrix": {
+                                            "Position": {
+                                                "x": -7,
+                                                "y": -10,
+                                                "z": 0
+                                            },
+                                            "Rotation": {
+                                                "x": 0,
+                                                "y": -0,
+                                                "z": 0
+                                            },
+                                            "Scaling": {
+                                                "x": 1,
+                                                "y": 1,
+                                                "z": 1
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "index": 9,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "SYMBOL_Instance": {
+                                        "SYMBOL_name": "Frame 5",
+                                        "Instance_Name": "",
+                                        "bitmap": {
+                                            "name": "0022",
+                                            "Position": {
+                                                "x": 0,
+                                                "y": 0
+                                            }
+                                        },
+                                        "symbolType": "movieclip",
+                                        "transformationPoint": {
+                                            "x": 0,
+                                            "y": 0
+                                        },
+                                        "Matrix3D": {
+                                            "m00": 1,
+                                            "m01": 0,
+                                            "m02": 0,
+                                            "m03": 0,
+                                            "m10": 0,
+                                            "m11": 1,
+                                            "m12": 0,
+                                            "m13": 0,
+                                            "m20": 0,
+                                            "m21": 0,
+                                            "m22": 1,
+                                            "m23": 0,
+                                            "m30": -7,
+                                            "m31": -10,
+                                            "m32": 0,
+                                            "m33": 1
+                                        },
+                                        "DecomposedMatrix": {
+                                            "Position": {
+                                                "x": -7,
+                                                "y": -10,
+                                                "z": 0
+                                            },
+                                            "Rotation": {
+                                                "x": 0,
+                                                "y": -0,
+                                                "z": 0
+                                            },
+                                            "Scaling": {
+                                                "x": 1,
+                                                "y": 1,
+                                                "z": 1
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Frame 6",
+                            "index": 10,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "SYMBOL_Instance": {
+                                        "SYMBOL_name": "Frame 6",
+                                        "Instance_Name": "",
+                                        "bitmap": {
+                                            "name": "0023",
+                                            "Position": {
+                                                "x": 0,
+                                                "y": 0
+                                            }
+                                        },
+                                        "symbolType": "movieclip",
+                                        "transformationPoint": {
+                                            "x": 0,
+                                            "y": 0
+                                        },
+                                        "Matrix3D": {
+                                            "m00": 1,
+                                            "m01": 0,
+                                            "m02": 0,
+                                            "m03": 0,
+                                            "m10": 0,
+                                            "m11": 1,
+                                            "m12": 0,
+                                            "m13": 0,
+                                            "m20": 0,
+                                            "m21": 0,
+                                            "m22": 1,
+                                            "m23": 0,
+                                            "m30": -7,
+                                            "m31": -10,
+                                            "m32": 0,
+                                            "m33": 1
+                                        },
+                                        "DecomposedMatrix": {
+                                            "Position": {
+                                                "x": -7,
+                                                "y": -10,
+                                                "z": 0
+                                            },
+                                            "Rotation": {
+                                                "x": 0,
+                                                "y": -0,
+                                                "z": 0
+                                            },
+                                            "Scaling": {
+                                                "x": 1,
+                                                "y": 1,
+                                                "z": 1
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "index": 11,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "SYMBOL_Instance": {
+                                        "SYMBOL_name": "Frame 6",
+                                        "Instance_Name": "",
+                                        "bitmap": {
+                                            "name": "0023",
+                                            "Position": {
+                                                "x": 0,
+                                                "y": 0
+                                            }
+                                        },
+                                        "symbolType": "movieclip",
+                                        "transformationPoint": {
+                                            "x": 0,
+                                            "y": 0
+                                        },
+                                        "Matrix3D": {
+                                            "m00": 1,
+                                            "m01": 0,
+                                            "m02": 0,
+                                            "m03": 0,
+                                            "m10": 0,
+                                            "m11": 1,
+                                            "m12": 0,
+                                            "m13": 0,
+                                            "m20": 0,
+                                            "m21": 0,
+                                            "m22": 1,
+                                            "m23": 0,
+                                            "m30": -7,
+                                            "m31": -10,
+                                            "m32": 0,
+                                            "m33": 1
+                                        },
+                                        "DecomposedMatrix": {
+                                            "Position": {
+                                                "x": -7,
+                                                "y": -10,
+                                                "z": 0
+                                            },
+                                            "Rotation": {
+                                                "x": 0,
+                                                "y": -0,
+                                                "z": 0
+                                            },
+                                            "Scaling": {
+                                                "x": 1,
+                                                "y": 1,
+                                                "z": 1
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Frame 7",
+                            "index": 12,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "SYMBOL_Instance": {
+                                        "SYMBOL_name": "Frame 7",
+                                        "Instance_Name": "",
+                                        "bitmap": {
+                                            "name": "0024",
+                                            "Position": {
+                                                "x": 0,
+                                                "y": 0
+                                            }
+                                        },
+                                        "symbolType": "movieclip",
+                                        "transformationPoint": {
+                                            "x": 0,
+                                            "y": 0
+                                        },
+                                        "Matrix3D": {
+                                            "m00": 1,
+                                            "m01": 0,
+                                            "m02": 0,
+                                            "m03": 0,
+                                            "m10": 0,
+                                            "m11": 1,
+                                            "m12": 0,
+                                            "m13": 0,
+                                            "m20": 0,
+                                            "m21": 0,
+                                            "m22": 1,
+                                            "m23": 0,
+                                            "m30": -7,
+                                            "m31": -10,
+                                            "m32": 0,
+                                            "m33": 1
+                                        },
+                                        "DecomposedMatrix": {
+                                            "Position": {
+                                                "x": -7,
+                                                "y": -10,
+                                                "z": 0
+                                            },
+                                            "Rotation": {
+                                                "x": 0,
+                                                "y": -0,
+                                                "z": 0
+                                            },
+                                            "Scaling": {
+                                                "x": 1,
+                                                "y": 1,
+                                                "z": 1
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "index": 13,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "SYMBOL_Instance": {
+                                        "SYMBOL_name": "Frame 7",
+                                        "Instance_Name": "",
+                                        "bitmap": {
+                                            "name": "0024",
+                                            "Position": {
+                                                "x": 0,
+                                                "y": 0
+                                            }
+                                        },
+                                        "symbolType": "movieclip",
+                                        "transformationPoint": {
+                                            "x": 0,
+                                            "y": 0
+                                        },
+                                        "Matrix3D": {
+                                            "m00": 1,
+                                            "m01": 0,
+                                            "m02": 0,
+                                            "m03": 0,
+                                            "m10": 0,
+                                            "m11": 1,
+                                            "m12": 0,
+                                            "m13": 0,
+                                            "m20": 0,
+                                            "m21": 0,
+                                            "m22": 1,
+                                            "m23": 0,
+                                            "m30": -7,
+                                            "m31": -10,
+                                            "m32": 0,
+                                            "m33": 1
+                                        },
+                                        "DecomposedMatrix": {
+                                            "Position": {
+                                                "x": -7,
+                                                "y": -10,
+                                                "z": 0
+                                            },
+                                            "Rotation": {
+                                                "x": 0,
+                                                "y": -0,
+                                                "z": 0
+                                            },
+                                            "Scaling": {
+                                                "x": 1,
+                                                "y": 1,
+                                                "z": 1
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Frame 8",
+                            "index": 14,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "SYMBOL_Instance": {
+                                        "SYMBOL_name": "Frame 8",
+                                        "Instance_Name": "",
+                                        "bitmap": {
+                                            "name": "0025",
+                                            "Position": {
+                                                "x": 0,
+                                                "y": 0
+                                            }
+                                        },
+                                        "symbolType": "movieclip",
+                                        "transformationPoint": {
+                                            "x": 0,
+                                            "y": 0
+                                        },
+                                        "Matrix3D": {
+                                            "m00": 1,
+                                            "m01": 0,
+                                            "m02": 0,
+                                            "m03": 0,
+                                            "m10": 0,
+                                            "m11": 1,
+                                            "m12": 0,
+                                            "m13": 0,
+                                            "m20": 0,
+                                            "m21": 0,
+                                            "m22": 1,
+                                            "m23": 0,
+                                            "m30": -7,
+                                            "m31": -10,
+                                            "m32": 0,
+                                            "m33": 1
+                                        },
+                                        "DecomposedMatrix": {
+                                            "Position": {
+                                                "x": -7,
+                                                "y": -10,
+                                                "z": 0
+                                            },
+                                            "Rotation": {
+                                                "x": 0,
+                                                "y": -0,
+                                                "z": 0
+                                            },
+                                            "Scaling": {
+                                                "x": 1,
+                                                "y": 1,
+                                                "z": 1
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "index": 15,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "SYMBOL_Instance": {
+                                        "SYMBOL_name": "Frame 8",
+                                        "Instance_Name": "",
+                                        "bitmap": {
+                                            "name": "0025",
+                                            "Position": {
+                                                "x": 0,
+                                                "y": 0
+                                            }
+                                        },
+                                        "symbolType": "movieclip",
+                                        "transformationPoint": {
+                                            "x": 0,
+                                            "y": 0
+                                        },
+                                        "Matrix3D": {
+                                            "m00": 1,
+                                            "m01": 0,
+                                            "m02": 0,
+                                            "m03": 0,
+                                            "m10": 0,
+                                            "m11": 1,
+                                            "m12": 0,
+                                            "m13": 0,
+                                            "m20": 0,
+                                            "m21": 0,
+                                            "m22": 1,
+                                            "m23": 0,
+                                            "m30": -7,
+                                            "m31": -10,
+                                            "m32": 0,
+                                            "m33": 1
+                                        },
+                                        "DecomposedMatrix": {
+                                            "Position": {
+                                                "x": -7,
+                                                "y": -10,
+                                                "z": 0
+                                            },
+                                            "Rotation": {
+                                                "x": 0,
+                                                "y": -0,
+                                                "z": 0
+                                            },
+                                            "Scaling": {
+                                                "x": 1,
+                                                "y": 1,
+                                                "z": 1
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Frame 9",
+                            "index": 16,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "SYMBOL_Instance": {
+                                        "SYMBOL_name": "Frame 9",
+                                        "Instance_Name": "",
+                                        "bitmap": {
+                                            "name": "0026",
+                                            "Position": {
+                                                "x": 0,
+                                                "y": 0
+                                            }
+                                        },
+                                        "symbolType": "movieclip",
+                                        "transformationPoint": {
+                                            "x": 0,
+                                            "y": 0
+                                        },
+                                        "Matrix3D": {
+                                            "m00": 1,
+                                            "m01": 0,
+                                            "m02": 0,
+                                            "m03": 0,
+                                            "m10": 0,
+                                            "m11": 1,
+                                            "m12": 0,
+                                            "m13": 0,
+                                            "m20": 0,
+                                            "m21": 0,
+                                            "m22": 1,
+                                            "m23": 0,
+                                            "m30": -7,
+                                            "m31": -10,
+                                            "m32": 0,
+                                            "m33": 1
+                                        },
+                                        "DecomposedMatrix": {
+                                            "Position": {
+                                                "x": -7,
+                                                "y": -10,
+                                                "z": 0
+                                            },
+                                            "Rotation": {
+                                                "x": 0,
+                                                "y": -0,
+                                                "z": 0
+                                            },
+                                            "Scaling": {
+                                                "x": 1,
+                                                "y": 1,
+                                                "z": 1
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "index": 17,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "SYMBOL_Instance": {
+                                        "SYMBOL_name": "Frame 9",
+                                        "Instance_Name": "",
+                                        "bitmap": {
+                                            "name": "0026",
+                                            "Position": {
+                                                "x": 0,
+                                                "y": 0
+                                            }
+                                        },
+                                        "symbolType": "movieclip",
+                                        "transformationPoint": {
+                                            "x": 0,
+                                            "y": 0
+                                        },
+                                        "Matrix3D": {
+                                            "m00": 1,
+                                            "m01": 0,
+                                            "m02": 0,
+                                            "m03": 0,
+                                            "m10": 0,
+                                            "m11": 1,
+                                            "m12": 0,
+                                            "m13": 0,
+                                            "m20": 0,
+                                            "m21": 0,
+                                            "m22": 1,
+                                            "m23": 0,
+                                            "m30": -7,
+                                            "m31": -10,
+                                            "m32": 0,
+                                            "m33": 1
+                                        },
+                                        "DecomposedMatrix": {
+                                            "Position": {
+                                                "x": -7,
+                                                "y": -10,
+                                                "z": 0
+                                            },
+                                            "Rotation": {
+                                                "x": 0,
+                                                "y": -0,
+                                                "z": 0
+                                            },
+                                            "Scaling": {
+                                                "x": 1,
+                                                "y": 1,
+                                                "z": 1
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Frame 10",
+                            "index": 18,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "SYMBOL_Instance": {
+                                        "SYMBOL_name": "Frame 10",
+                                        "Instance_Name": "",
+                                        "bitmap": {
+                                            "name": "0027",
+                                            "Position": {
+                                                "x": 0,
+                                                "y": 0
+                                            }
+                                        },
+                                        "symbolType": "movieclip",
+                                        "transformationPoint": {
+                                            "x": 0,
+                                            "y": 0
+                                        },
+                                        "Matrix3D": {
+                                            "m00": 1,
+                                            "m01": 0,
+                                            "m02": 0,
+                                            "m03": 0,
+                                            "m10": 0,
+                                            "m11": 1,
+                                            "m12": 0,
+                                            "m13": 0,
+                                            "m20": 0,
+                                            "m21": 0,
+                                            "m22": 1,
+                                            "m23": 0,
+                                            "m30": -7,
+                                            "m31": -10,
+                                            "m32": 0,
+                                            "m33": 1
+                                        },
+                                        "DecomposedMatrix": {
+                                            "Position": {
+                                                "x": -7,
+                                                "y": -10,
+                                                "z": 0
+                                            },
+                                            "Rotation": {
+                                                "x": 0,
+                                                "y": -0,
+                                                "z": 0
+                                            },
+                                            "Scaling": {
+                                                "x": 1,
+                                                "y": 1,
+                                                "z": 1
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "index": 19,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "SYMBOL_Instance": {
+                                        "SYMBOL_name": "Frame 10",
+                                        "Instance_Name": "",
+                                        "bitmap": {
+                                            "name": "0027",
+                                            "Position": {
+                                                "x": 0,
+                                                "y": 0
+                                            }
+                                        },
+                                        "symbolType": "movieclip",
+                                        "transformationPoint": {
+                                            "x": 0,
+                                            "y": 0
+                                        },
+                                        "Matrix3D": {
+                                            "m00": 1,
+                                            "m01": 0,
+                                            "m02": 0,
+                                            "m03": 0,
+                                            "m10": 0,
+                                            "m11": 1,
+                                            "m12": 0,
+                                            "m13": 0,
+                                            "m20": 0,
+                                            "m21": 0,
+                                            "m22": 1,
+                                            "m23": 0,
+                                            "m30": -7,
+                                            "m31": -10,
+                                            "m32": 0,
+                                            "m33": 1
+                                        },
+                                        "DecomposedMatrix": {
+                                            "Position": {
+                                                "x": -7,
+                                                "y": -10,
+                                                "z": 0
+                                            },
+                                            "Rotation": {
+                                                "x": 0,
+                                                "y": -0,
+                                                "z": 0
+                                            },
+                                            "Scaling": {
+                                                "x": 1,
+                                                "y": 1,
+                                                "z": 1
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Frame 11",
+                            "index": 20,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "SYMBOL_Instance": {
+                                        "SYMBOL_name": "Frame 11",
+                                        "Instance_Name": "",
+                                        "bitmap": {
+                                            "name": "0028",
+                                            "Position": {
+                                                "x": 0,
+                                                "y": 0
+                                            }
+                                        },
+                                        "symbolType": "movieclip",
+                                        "transformationPoint": {
+                                            "x": 0,
+                                            "y": 0
+                                        },
+                                        "Matrix3D": {
+                                            "m00": 1,
+                                            "m01": 0,
+                                            "m02": 0,
+                                            "m03": 0,
+                                            "m10": 0,
+                                            "m11": 1,
+                                            "m12": 0,
+                                            "m13": 0,
+                                            "m20": 0,
+                                            "m21": 0,
+                                            "m22": 1,
+                                            "m23": 0,
+                                            "m30": -7,
+                                            "m31": -10,
+                                            "m32": 0,
+                                            "m33": 1
+                                        },
+                                        "DecomposedMatrix": {
+                                            "Position": {
+                                                "x": -7,
+                                                "y": -10,
+                                                "z": 0
+                                            },
+                                            "Rotation": {
+                                                "x": 0,
+                                                "y": -0,
+                                                "z": 0
+                                            },
+                                            "Scaling": {
+                                                "x": 1,
+                                                "y": 1,
+                                                "z": 1
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "index": 21,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "SYMBOL_Instance": {
+                                        "SYMBOL_name": "Frame 11",
+                                        "Instance_Name": "",
+                                        "bitmap": {
+                                            "name": "0028",
+                                            "Position": {
+                                                "x": 0,
+                                                "y": 0
+                                            }
+                                        },
+                                        "symbolType": "movieclip",
+                                        "transformationPoint": {
+                                            "x": 0,
+                                            "y": 0
+                                        },
+                                        "Matrix3D": {
+                                            "m00": 1,
+                                            "m01": 0,
+                                            "m02": 0,
+                                            "m03": 0,
+                                            "m10": 0,
+                                            "m11": 1,
+                                            "m12": 0,
+                                            "m13": 0,
+                                            "m20": 0,
+                                            "m21": 0,
+                                            "m22": 1,
+                                            "m23": 0,
+                                            "m30": -7,
+                                            "m31": -10,
+                                            "m32": 0,
+                                            "m33": 1
+                                        },
+                                        "DecomposedMatrix": {
+                                            "Position": {
+                                                "x": -7,
+                                                "y": -10,
+                                                "z": 0
+                                            },
+                                            "Rotation": {
+                                                "x": 0,
+                                                "y": -0,
+                                                "z": 0
+                                            },
+                                            "Scaling": {
+                                                "x": 1,
+                                                "y": 1,
+                                                "z": 1
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Frame 12",
+                            "index": 22,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "SYMBOL_Instance": {
+                                        "SYMBOL_name": "Frame 12",
+                                        "Instance_Name": "",
+                                        "bitmap": {
+                                            "name": "0029",
+                                            "Position": {
+                                                "x": 0,
+                                                "y": 0
+                                            }
+                                        },
+                                        "symbolType": "movieclip",
+                                        "transformationPoint": {
+                                            "x": 0,
+                                            "y": 0
+                                        },
+                                        "Matrix3D": {
+                                            "m00": 1,
+                                            "m01": 0,
+                                            "m02": 0,
+                                            "m03": 0,
+                                            "m10": 0,
+                                            "m11": 1,
+                                            "m12": 0,
+                                            "m13": 0,
+                                            "m20": 0,
+                                            "m21": 0,
+                                            "m22": 1,
+                                            "m23": 0,
+                                            "m30": -7,
+                                            "m31": -10,
+                                            "m32": 0,
+                                            "m33": 1
+                                        },
+                                        "DecomposedMatrix": {
+                                            "Position": {
+                                                "x": -7,
+                                                "y": -10,
+                                                "z": 0
+                                            },
+                                            "Rotation": {
+                                                "x": 0,
+                                                "y": -0,
+                                                "z": 0
+                                            },
+                                            "Scaling": {
+                                                "x": 1,
+                                                "y": 1,
+                                                "z": 1
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "index": 23,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "SYMBOL_Instance": {
+                                        "SYMBOL_name": "Frame 12",
+                                        "Instance_Name": "",
+                                        "bitmap": {
+                                            "name": "0029",
+                                            "Position": {
+                                                "x": 0,
+                                                "y": 0
+                                            }
+                                        },
+                                        "symbolType": "movieclip",
+                                        "transformationPoint": {
+                                            "x": 0,
+                                            "y": 0
+                                        },
+                                        "Matrix3D": {
+                                            "m00": 1,
+                                            "m01": 0,
+                                            "m02": 0,
+                                            "m03": 0,
+                                            "m10": 0,
+                                            "m11": 1,
+                                            "m12": 0,
+                                            "m13": 0,
+                                            "m20": 0,
+                                            "m21": 0,
+                                            "m22": 1,
+                                            "m23": 0,
+                                            "m30": -7,
+                                            "m31": -10,
+                                            "m32": 0,
+                                            "m33": 1
+                                        },
+                                        "DecomposedMatrix": {
+                                            "Position": {
+                                                "x": -7,
+                                                "y": -10,
+                                                "z": 0
+                                            },
+                                            "Rotation": {
+                                                "x": 0,
+                                                "y": -0,
+                                                "z": 0
+                                            },
+                                            "Scaling": {
+                                                "x": 1,
+                                                "y": 1,
+                                                "z": 1
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Frame 13",
+                            "index": 24,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "SYMBOL_Instance": {
+                                        "SYMBOL_name": "Frame 13",
+                                        "Instance_Name": "",
+                                        "bitmap": {
+                                            "name": "0030",
+                                            "Position": {
+                                                "x": 0,
+                                                "y": 0
+                                            }
+                                        },
+                                        "symbolType": "movieclip",
+                                        "transformationPoint": {
+                                            "x": 0,
+                                            "y": 0
+                                        },
+                                        "Matrix3D": {
+                                            "m00": 1,
+                                            "m01": 0,
+                                            "m02": 0,
+                                            "m03": 0,
+                                            "m10": 0,
+                                            "m11": 1,
+                                            "m12": 0,
+                                            "m13": 0,
+                                            "m20": 0,
+                                            "m21": 0,
+                                            "m22": 1,
+                                            "m23": 0,
+                                            "m30": -7,
+                                            "m31": -10,
+                                            "m32": 0,
+                                            "m33": 1
+                                        },
+                                        "DecomposedMatrix": {
+                                            "Position": {
+                                                "x": -7,
+                                                "y": -10,
+                                                "z": 0
+                                            },
+                                            "Rotation": {
+                                                "x": 0,
+                                                "y": -0,
+                                                "z": 0
+                                            },
+                                            "Scaling": {
+                                                "x": 1,
+                                                "y": 1,
+                                                "z": 1
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "index": 25,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "SYMBOL_Instance": {
+                                        "SYMBOL_name": "Frame 13",
+                                        "Instance_Name": "",
+                                        "bitmap": {
+                                            "name": "0030",
+                                            "Position": {
+                                                "x": 0,
+                                                "y": 0
+                                            }
+                                        },
+                                        "symbolType": "movieclip",
+                                        "transformationPoint": {
+                                            "x": 0,
+                                            "y": 0
+                                        },
+                                        "Matrix3D": {
+                                            "m00": 1,
+                                            "m01": 0,
+                                            "m02": 0,
+                                            "m03": 0,
+                                            "m10": 0,
+                                            "m11": 1,
+                                            "m12": 0,
+                                            "m13": 0,
+                                            "m20": 0,
+                                            "m21": 0,
+                                            "m22": 1,
+                                            "m23": 0,
+                                            "m30": -7,
+                                            "m31": -10,
+                                            "m32": 0,
+                                            "m33": 1
+                                        },
+                                        "DecomposedMatrix": {
+                                            "Position": {
+                                                "x": -7,
+                                                "y": -10,
+                                                "z": 0
+                                            },
+                                            "Rotation": {
+                                                "x": 0,
+                                                "y": -0,
+                                                "z": 0
+                                            },
+                                            "Scaling": {
+                                                "x": 1,
+                                                "y": 1,
+                                                "z": 1
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Frame 14",
+                            "index": 26,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "SYMBOL_Instance": {
+                                        "SYMBOL_name": "Frame 14",
+                                        "Instance_Name": "",
+                                        "bitmap": {
+                                            "name": "0031",
+                                            "Position": {
+                                                "x": 0,
+                                                "y": 0
+                                            }
+                                        },
+                                        "symbolType": "movieclip",
+                                        "transformationPoint": {
+                                            "x": 0,
+                                            "y": 0
+                                        },
+                                        "Matrix3D": {
+                                            "m00": 1,
+                                            "m01": 0,
+                                            "m02": 0,
+                                            "m03": 0,
+                                            "m10": 0,
+                                            "m11": 1,
+                                            "m12": 0,
+                                            "m13": 0,
+                                            "m20": 0,
+                                            "m21": 0,
+                                            "m22": 1,
+                                            "m23": 0,
+                                            "m30": -7,
+                                            "m31": -10,
+                                            "m32": 0,
+                                            "m33": 1
+                                        },
+                                        "DecomposedMatrix": {
+                                            "Position": {
+                                                "x": -7,
+                                                "y": -10,
+                                                "z": 0
+                                            },
+                                            "Rotation": {
+                                                "x": 0,
+                                                "y": -0,
+                                                "z": 0
+                                            },
+                                            "Scaling": {
+                                                "x": 1,
+                                                "y": 1,
+                                                "z": 1
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "index": 27,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "SYMBOL_Instance": {
+                                        "SYMBOL_name": "Frame 14",
+                                        "Instance_Name": "",
+                                        "bitmap": {
+                                            "name": "0031",
+                                            "Position": {
+                                                "x": 0,
+                                                "y": 0
+                                            }
+                                        },
+                                        "symbolType": "movieclip",
+                                        "transformationPoint": {
+                                            "x": 0,
+                                            "y": 0
+                                        },
+                                        "Matrix3D": {
+                                            "m00": 1,
+                                            "m01": 0,
+                                            "m02": 0,
+                                            "m03": 0,
+                                            "m10": 0,
+                                            "m11": 1,
+                                            "m12": 0,
+                                            "m13": 0,
+                                            "m20": 0,
+                                            "m21": 0,
+                                            "m22": 1,
+                                            "m23": 0,
+                                            "m30": -7,
+                                            "m31": -10,
+                                            "m32": 0,
+                                            "m33": 1
+                                        },
+                                        "DecomposedMatrix": {
+                                            "Position": {
+                                                "x": -7,
+                                                "y": -10,
+                                                "z": 0
+                                            },
+                                            "Rotation": {
+                                                "x": 0,
+                                                "y": -0,
+                                                "z": 0
+                                            },
+                                            "Scaling": {
+                                                "x": 1,
+                                                "y": 1,
+                                                "z": 1
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Frame 15",
+                            "index": 28,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "SYMBOL_Instance": {
+                                        "SYMBOL_name": "Frame 15",
+                                        "Instance_Name": "",
+                                        "bitmap": {
+                                            "name": "0032",
+                                            "Position": {
+                                                "x": 0,
+                                                "y": 0
+                                            }
+                                        },
+                                        "symbolType": "movieclip",
+                                        "transformationPoint": {
+                                            "x": 0,
+                                            "y": 0
+                                        },
+                                        "Matrix3D": {
+                                            "m00": 1,
+                                            "m01": 0,
+                                            "m02": 0,
+                                            "m03": 0,
+                                            "m10": 0,
+                                            "m11": 1,
+                                            "m12": 0,
+                                            "m13": 0,
+                                            "m20": 0,
+                                            "m21": 0,
+                                            "m22": 1,
+                                            "m23": 0,
+                                            "m30": -7,
+                                            "m31": -10,
+                                            "m32": 0,
+                                            "m33": 1
+                                        },
+                                        "DecomposedMatrix": {
+                                            "Position": {
+                                                "x": -7,
+                                                "y": -10,
+                                                "z": 0
+                                            },
+                                            "Rotation": {
+                                                "x": 0,
+                                                "y": -0,
+                                                "z": 0
+                                            },
+                                            "Scaling": {
+                                                "x": 1,
+                                                "y": 1,
+                                                "z": 1
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "index": 29,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "SYMBOL_Instance": {
+                                        "SYMBOL_name": "Frame 15",
+                                        "Instance_Name": "",
+                                        "bitmap": {
+                                            "name": "0032",
+                                            "Position": {
+                                                "x": 0,
+                                                "y": 0
+                                            }
+                                        },
+                                        "symbolType": "movieclip",
+                                        "transformationPoint": {
+                                            "x": 0,
+                                            "y": 0
+                                        },
+                                        "Matrix3D": {
+                                            "m00": 1,
+                                            "m01": 0,
+                                            "m02": 0,
+                                            "m03": 0,
+                                            "m10": 0,
+                                            "m11": 1,
+                                            "m12": 0,
+                                            "m13": 0,
+                                            "m20": 0,
+                                            "m21": 0,
+                                            "m22": 1,
+                                            "m23": 0,
+                                            "m30": -7,
+                                            "m31": -10,
+                                            "m32": 0,
+                                            "m33": 1
+                                        },
+                                        "DecomposedMatrix": {
+                                            "Position": {
+                                                "x": -7,
+                                                "y": -10,
+                                                "z": 0
+                                            },
+                                            "Rotation": {
+                                                "x": 0,
+                                                "y": -0,
+                                                "z": 0
+                                            },
+                                            "Scaling": {
+                                                "x": 1,
+                                                "y": 1,
+                                                "z": 1
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Frame 16",
+                            "index": 30,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "SYMBOL_Instance": {
+                                        "SYMBOL_name": "Frame 16",
+                                        "Instance_Name": "",
+                                        "bitmap": {
+                                            "name": "0033",
+                                            "Position": {
+                                                "x": 0,
+                                                "y": 0
+                                            }
+                                        },
+                                        "symbolType": "movieclip",
+                                        "transformationPoint": {
+                                            "x": 0,
+                                            "y": 0
+                                        },
+                                        "Matrix3D": {
+                                            "m00": 1,
+                                            "m01": 0,
+                                            "m02": 0,
+                                            "m03": 0,
+                                            "m10": 0,
+                                            "m11": 1,
+                                            "m12": 0,
+                                            "m13": 0,
+                                            "m20": 0,
+                                            "m21": 0,
+                                            "m22": 1,
+                                            "m23": 0,
+                                            "m30": -7,
+                                            "m31": -10,
+                                            "m32": 0,
+                                            "m33": 1
+                                        },
+                                        "DecomposedMatrix": {
+                                            "Position": {
+                                                "x": -7,
+                                                "y": -10,
+                                                "z": 0
+                                            },
+                                            "Rotation": {
+                                                "x": 0,
+                                                "y": -0,
+                                                "z": 0
+                                            },
+                                            "Scaling": {
+                                                "x": 1,
+                                                "y": 1,
+                                                "z": 1
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "index": 31,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "SYMBOL_Instance": {
+                                        "SYMBOL_name": "Frame 16",
+                                        "Instance_Name": "",
+                                        "bitmap": {
+                                            "name": "0033",
+                                            "Position": {
+                                                "x": 0,
+                                                "y": 0
+                                            }
+                                        },
+                                        "symbolType": "movieclip",
+                                        "transformationPoint": {
+                                            "x": 0,
+                                            "y": 0
+                                        },
+                                        "Matrix3D": {
+                                            "m00": 1,
+                                            "m01": 0,
+                                            "m02": 0,
+                                            "m03": 0,
+                                            "m10": 0,
+                                            "m11": 1,
+                                            "m12": 0,
+                                            "m13": 0,
+                                            "m20": 0,
+                                            "m21": 0,
+                                            "m22": 1,
+                                            "m23": 0,
+                                            "m30": -7,
+                                            "m31": -10,
+                                            "m32": 0,
+                                            "m33": 1
+                                        },
+                                        "DecomposedMatrix": {
+                                            "Position": {
+                                                "x": -7,
+                                                "y": -10,
+                                                "z": 0
+                                            },
+                                            "Rotation": {
+                                                "x": 0,
+                                                "y": -0,
+                                                "z": 0
+                                            },
+                                            "Scaling": {
+                                                "x": 1,
+                                                "y": 1,
+                                                "z": 1
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Frame 17",
+                            "index": 32,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "SYMBOL_Instance": {
+                                        "SYMBOL_name": "Frame 17",
+                                        "Instance_Name": "",
+                                        "bitmap": {
+                                            "name": "0034",
+                                            "Position": {
+                                                "x": 0,
+                                                "y": 0
+                                            }
+                                        },
+                                        "symbolType": "movieclip",
+                                        "transformationPoint": {
+                                            "x": 0,
+                                            "y": 0
+                                        },
+                                        "Matrix3D": {
+                                            "m00": 1,
+                                            "m01": 0,
+                                            "m02": 0,
+                                            "m03": 0,
+                                            "m10": 0,
+                                            "m11": 1,
+                                            "m12": 0,
+                                            "m13": 0,
+                                            "m20": 0,
+                                            "m21": 0,
+                                            "m22": 1,
+                                            "m23": 0,
+                                            "m30": -7,
+                                            "m31": -10,
+                                            "m32": 0,
+                                            "m33": 1
+                                        },
+                                        "DecomposedMatrix": {
+                                            "Position": {
+                                                "x": -7,
+                                                "y": -10,
+                                                "z": 0
+                                            },
+                                            "Rotation": {
+                                                "x": 0,
+                                                "y": -0,
+                                                "z": 0
+                                            },
+                                            "Scaling": {
+                                                "x": 1,
+                                                "y": 1,
+                                                "z": 1
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "index": 33,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "SYMBOL_Instance": {
+                                        "SYMBOL_name": "Frame 17",
+                                        "Instance_Name": "",
+                                        "bitmap": {
+                                            "name": "0034",
+                                            "Position": {
+                                                "x": 0,
+                                                "y": 0
+                                            }
+                                        },
+                                        "symbolType": "movieclip",
+                                        "transformationPoint": {
+                                            "x": 0,
+                                            "y": 0
+                                        },
+                                        "Matrix3D": {
+                                            "m00": 1,
+                                            "m01": 0,
+                                            "m02": 0,
+                                            "m03": 0,
+                                            "m10": 0,
+                                            "m11": 1,
+                                            "m12": 0,
+                                            "m13": 0,
+                                            "m20": 0,
+                                            "m21": 0,
+                                            "m22": 1,
+                                            "m23": 0,
+                                            "m30": -7,
+                                            "m31": -10,
+                                            "m32": 0,
+                                            "m33": 1
+                                        },
+                                        "DecomposedMatrix": {
+                                            "Position": {
+                                                "x": -7,
+                                                "y": -10,
+                                                "z": 0
+                                            },
+                                            "Rotation": {
+                                                "x": 0,
+                                                "y": -0,
+                                                "z": 0
+                                            },
+                                            "Scaling": {
+                                                "x": 1,
+                                                "y": 1,
+                                                "z": 1
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Frame 18",
+                            "index": 34,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "SYMBOL_Instance": {
+                                        "SYMBOL_name": "Frame 18",
+                                        "Instance_Name": "",
+                                        "bitmap": {
+                                            "name": "0035",
+                                            "Position": {
+                                                "x": 0,
+                                                "y": 0
+                                            }
+                                        },
+                                        "symbolType": "movieclip",
+                                        "transformationPoint": {
+                                            "x": 0,
+                                            "y": 0
+                                        },
+                                        "Matrix3D": {
+                                            "m00": 1,
+                                            "m01": 0,
+                                            "m02": 0,
+                                            "m03": 0,
+                                            "m10": 0,
+                                            "m11": 1,
+                                            "m12": 0,
+                                            "m13": 0,
+                                            "m20": 0,
+                                            "m21": 0,
+                                            "m22": 1,
+                                            "m23": 0,
+                                            "m30": -7,
+                                            "m31": -10,
+                                            "m32": 0,
+                                            "m33": 1
+                                        },
+                                        "DecomposedMatrix": {
+                                            "Position": {
+                                                "x": -7,
+                                                "y": -10,
+                                                "z": 0
+                                            },
+                                            "Rotation": {
+                                                "x": 0,
+                                                "y": -0,
+                                                "z": 0
+                                            },
+                                            "Scaling": {
+                                                "x": 1,
+                                                "y": 1,
+                                                "z": 1
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "index": 35,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "SYMBOL_Instance": {
+                                        "SYMBOL_name": "Frame 18",
+                                        "Instance_Name": "",
+                                        "bitmap": {
+                                            "name": "0035",
+                                            "Position": {
+                                                "x": 0,
+                                                "y": 0
+                                            }
+                                        },
+                                        "symbolType": "movieclip",
+                                        "transformationPoint": {
+                                            "x": 0,
+                                            "y": 0
+                                        },
+                                        "Matrix3D": {
+                                            "m00": 1,
+                                            "m01": 0,
+                                            "m02": 0,
+                                            "m03": 0,
+                                            "m10": 0,
+                                            "m11": 1,
+                                            "m12": 0,
+                                            "m13": 0,
+                                            "m20": 0,
+                                            "m21": 0,
+                                            "m22": 1,
+                                            "m23": 0,
+                                            "m30": -7,
+                                            "m31": -10,
+                                            "m32": 0,
+                                            "m33": 1
+                                        },
+                                        "DecomposedMatrix": {
+                                            "Position": {
+                                                "x": -7,
+                                                "y": -10,
+                                                "z": 0
+                                            },
+                                            "Rotation": {
+                                                "x": 0,
+                                                "y": -0,
+                                                "z": 0
+                                            },
+                                            "Scaling": {
+                                                "x": 1,
+                                                "y": 1,
+                                                "z": 1
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "SYMBOL_DICTIONARY": {
+        "Symbols": []
+    },
+    "metadata": {
+        "framerate": 30
+    }
+}

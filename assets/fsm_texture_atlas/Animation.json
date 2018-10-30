@@ -1,0 +1,1648 @@
+{
+    "ANIMATION": {
+        "name": "Game",
+        "SYMBOL_name": "FSM",
+        "TIMELINE": {
+            "LAYERS": [
+                {
+                    "Layer_name": "Layer_1",
+                    "Frames": [
+                        {
+                            "index": 0,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "ATLAS_SPRITE_instance": {
+                                        "name": "0000",
+                                        "Position": {
+                                            "x": -45,
+                                            "y": -40
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "index": 1,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "ATLAS_SPRITE_instance": {
+                                        "name": "0000",
+                                        "Position": {
+                                            "x": -45,
+                                            "y": -41.3
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "index": 2,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "ATLAS_SPRITE_instance": {
+                                        "name": "0000",
+                                        "Position": {
+                                            "x": -45,
+                                            "y": -42.65
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "index": 3,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "ATLAS_SPRITE_instance": {
+                                        "name": "0000",
+                                        "Position": {
+                                            "x": -45,
+                                            "y": -43.95
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "index": 4,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "ATLAS_SPRITE_instance": {
+                                        "name": "0000",
+                                        "Position": {
+                                            "x": -45,
+                                            "y": -45.25
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "index": 5,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "ATLAS_SPRITE_instance": {
+                                        "name": "0000",
+                                        "Position": {
+                                            "x": -45,
+                                            "y": -46.6
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "index": 6,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "ATLAS_SPRITE_instance": {
+                                        "name": "0000",
+                                        "Position": {
+                                            "x": -45,
+                                            "y": -47.9
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "index": 7,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "ATLAS_SPRITE_instance": {
+                                        "name": "0000",
+                                        "Position": {
+                                            "x": -45,
+                                            "y": -49.2
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "index": 8,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "ATLAS_SPRITE_instance": {
+                                        "name": "0000",
+                                        "Position": {
+                                            "x": -45,
+                                            "y": -50.55
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "index": 9,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "ATLAS_SPRITE_instance": {
+                                        "name": "0000",
+                                        "Position": {
+                                            "x": -45,
+                                            "y": -51.85
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "index": 10,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "ATLAS_SPRITE_instance": {
+                                        "name": "0000",
+                                        "Position": {
+                                            "x": -45,
+                                            "y": -53.15
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "index": 11,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "ATLAS_SPRITE_instance": {
+                                        "name": "0000",
+                                        "Position": {
+                                            "x": -45,
+                                            "y": -54.45
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "index": 12,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "ATLAS_SPRITE_instance": {
+                                        "name": "0000",
+                                        "Position": {
+                                            "x": -45,
+                                            "y": -55.8
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "index": 13,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "ATLAS_SPRITE_instance": {
+                                        "name": "0000",
+                                        "Position": {
+                                            "x": -45,
+                                            "y": -57.1
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "index": 14,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "ATLAS_SPRITE_instance": {
+                                        "name": "0000",
+                                        "Position": {
+                                            "x": -45,
+                                            "y": -58.4
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "index": 15,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "ATLAS_SPRITE_instance": {
+                                        "name": "0000",
+                                        "Position": {
+                                            "x": -45,
+                                            "y": -59.75
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "index": 16,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "ATLAS_SPRITE_instance": {
+                                        "name": "0000",
+                                        "Position": {
+                                            "x": -45,
+                                            "y": -61.05
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "index": 17,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "ATLAS_SPRITE_instance": {
+                                        "name": "0000",
+                                        "Position": {
+                                            "x": -45,
+                                            "y": -62.35
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "index": 18,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "ATLAS_SPRITE_instance": {
+                                        "name": "0000",
+                                        "Position": {
+                                            "x": -45,
+                                            "y": -63.7
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "index": 19,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "SYMBOL_Instance": {
+                                        "SYMBOL_name": "Tween 1",
+                                        "Instance_Name": "InstName",
+                                        "bitmap": {
+                                            "name": "0001",
+                                            "Position": {
+                                                "x": -45,
+                                                "y": -40
+                                            }
+                                        },
+                                        "symbolType": "graphic",
+                                        "firstFrame": 0,
+                                        "loop": "loop",
+                                        "transformationPoint": {
+                                            "x": 0,
+                                            "y": 0
+                                        },
+                                        "Matrix3D": {
+                                            "m00": 1,
+                                            "m01": 0,
+                                            "m02": 0,
+                                            "m03": 0,
+                                            "m10": 0,
+                                            "m11": 1,
+                                            "m12": 0,
+                                            "m13": 0,
+                                            "m20": 0,
+                                            "m21": 0,
+                                            "m22": 1,
+                                            "m23": 0,
+                                            "m30": 0,
+                                            "m31": -25,
+                                            "m32": 0,
+                                            "m33": 1
+                                        },
+                                        "DecomposedMatrix": {
+                                            "Position": {
+                                                "x": 0,
+                                                "y": -25,
+                                                "z": 0
+                                            },
+                                            "Rotation": {
+                                                "x": 0,
+                                                "y": -0,
+                                                "z": 0
+                                            },
+                                            "Scaling": {
+                                                "x": 1,
+                                                "y": 1,
+                                                "z": 1
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "index": 20,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "SYMBOL_Instance": {
+                                        "SYMBOL_name": "Tween 1",
+                                        "Instance_Name": "InstName",
+                                        "bitmap": {
+                                            "name": "0001",
+                                            "Position": {
+                                                "x": -45,
+                                                "y": -40
+                                            }
+                                        },
+                                        "symbolType": "graphic",
+                                        "firstFrame": 0,
+                                        "loop": "loop",
+                                        "transformationPoint": {
+                                            "x": 0,
+                                            "y": 0
+                                        },
+                                        "Matrix3D": {
+                                            "m00": 1,
+                                            "m01": 0,
+                                            "m02": 0,
+                                            "m03": 0,
+                                            "m10": 0,
+                                            "m11": 1,
+                                            "m12": 0,
+                                            "m13": 0,
+                                            "m20": 0,
+                                            "m21": 0,
+                                            "m22": 1,
+                                            "m23": 0,
+                                            "m30": 0,
+                                            "m31": -23.8,
+                                            "m32": 0,
+                                            "m33": 1
+                                        },
+                                        "DecomposedMatrix": {
+                                            "Position": {
+                                                "x": 0,
+                                                "y": -23.8,
+                                                "z": 0
+                                            },
+                                            "Rotation": {
+                                                "x": 0,
+                                                "y": -0,
+                                                "z": 0
+                                            },
+                                            "Scaling": {
+                                                "x": 1,
+                                                "y": 1,
+                                                "z": 1
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "index": 21,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "SYMBOL_Instance": {
+                                        "SYMBOL_name": "Tween 1",
+                                        "Instance_Name": "InstName",
+                                        "bitmap": {
+                                            "name": "0001",
+                                            "Position": {
+                                                "x": -45,
+                                                "y": -40
+                                            }
+                                        },
+                                        "symbolType": "graphic",
+                                        "firstFrame": 0,
+                                        "loop": "loop",
+                                        "transformationPoint": {
+                                            "x": 0,
+                                            "y": 0
+                                        },
+                                        "Matrix3D": {
+                                            "m00": 1,
+                                            "m01": 0,
+                                            "m02": 0,
+                                            "m03": 0,
+                                            "m10": 0,
+                                            "m11": 1,
+                                            "m12": 0,
+                                            "m13": 0,
+                                            "m20": 0,
+                                            "m21": 0,
+                                            "m22": 1,
+                                            "m23": 0,
+                                            "m30": 0,
+                                            "m31": -22.6,
+                                            "m32": 0,
+                                            "m33": 1
+                                        },
+                                        "DecomposedMatrix": {
+                                            "Position": {
+                                                "x": 0,
+                                                "y": -22.6,
+                                                "z": 0
+                                            },
+                                            "Rotation": {
+                                                "x": 0,
+                                                "y": -0,
+                                                "z": 0
+                                            },
+                                            "Scaling": {
+                                                "x": 1,
+                                                "y": 1,
+                                                "z": 1
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "index": 22,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "SYMBOL_Instance": {
+                                        "SYMBOL_name": "Tween 1",
+                                        "Instance_Name": "InstName",
+                                        "bitmap": {
+                                            "name": "0001",
+                                            "Position": {
+                                                "x": -45,
+                                                "y": -40
+                                            }
+                                        },
+                                        "symbolType": "graphic",
+                                        "firstFrame": 0,
+                                        "loop": "loop",
+                                        "transformationPoint": {
+                                            "x": 0,
+                                            "y": 0
+                                        },
+                                        "Matrix3D": {
+                                            "m00": 1,
+                                            "m01": 0,
+                                            "m02": 0,
+                                            "m03": 0,
+                                            "m10": 0,
+                                            "m11": 1,
+                                            "m12": 0,
+                                            "m13": 0,
+                                            "m20": 0,
+                                            "m21": 0,
+                                            "m22": 1,
+                                            "m23": 0,
+                                            "m30": 0,
+                                            "m31": -21.45,
+                                            "m32": 0,
+                                            "m33": 1
+                                        },
+                                        "DecomposedMatrix": {
+                                            "Position": {
+                                                "x": 0,
+                                                "y": -21.45,
+                                                "z": 0
+                                            },
+                                            "Rotation": {
+                                                "x": 0,
+                                                "y": -0,
+                                                "z": 0
+                                            },
+                                            "Scaling": {
+                                                "x": 1,
+                                                "y": 1,
+                                                "z": 1
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "index": 23,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "SYMBOL_Instance": {
+                                        "SYMBOL_name": "Tween 1",
+                                        "Instance_Name": "InstName",
+                                        "bitmap": {
+                                            "name": "0001",
+                                            "Position": {
+                                                "x": -45,
+                                                "y": -40
+                                            }
+                                        },
+                                        "symbolType": "graphic",
+                                        "firstFrame": 0,
+                                        "loop": "loop",
+                                        "transformationPoint": {
+                                            "x": 0,
+                                            "y": 0
+                                        },
+                                        "Matrix3D": {
+                                            "m00": 1,
+                                            "m01": 0,
+                                            "m02": 0,
+                                            "m03": 0,
+                                            "m10": 0,
+                                            "m11": 1,
+                                            "m12": 0,
+                                            "m13": 0,
+                                            "m20": 0,
+                                            "m21": 0,
+                                            "m22": 1,
+                                            "m23": 0,
+                                            "m30": 0,
+                                            "m31": -20.25,
+                                            "m32": 0,
+                                            "m33": 1
+                                        },
+                                        "DecomposedMatrix": {
+                                            "Position": {
+                                                "x": 0,
+                                                "y": -20.25,
+                                                "z": 0
+                                            },
+                                            "Rotation": {
+                                                "x": 0,
+                                                "y": -0,
+                                                "z": 0
+                                            },
+                                            "Scaling": {
+                                                "x": 1,
+                                                "y": 1,
+                                                "z": 1
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "index": 24,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "SYMBOL_Instance": {
+                                        "SYMBOL_name": "Tween 1",
+                                        "Instance_Name": "InstName",
+                                        "bitmap": {
+                                            "name": "0001",
+                                            "Position": {
+                                                "x": -45,
+                                                "y": -40
+                                            }
+                                        },
+                                        "symbolType": "graphic",
+                                        "firstFrame": 0,
+                                        "loop": "loop",
+                                        "transformationPoint": {
+                                            "x": 0,
+                                            "y": 0
+                                        },
+                                        "Matrix3D": {
+                                            "m00": 1,
+                                            "m01": 0,
+                                            "m02": 0,
+                                            "m03": 0,
+                                            "m10": 0,
+                                            "m11": 1,
+                                            "m12": 0,
+                                            "m13": 0,
+                                            "m20": 0,
+                                            "m21": 0,
+                                            "m22": 1,
+                                            "m23": 0,
+                                            "m30": 0,
+                                            "m31": -19.05,
+                                            "m32": 0,
+                                            "m33": 1
+                                        },
+                                        "DecomposedMatrix": {
+                                            "Position": {
+                                                "x": 0,
+                                                "y": -19.05,
+                                                "z": 0
+                                            },
+                                            "Rotation": {
+                                                "x": 0,
+                                                "y": -0,
+                                                "z": 0
+                                            },
+                                            "Scaling": {
+                                                "x": 1,
+                                                "y": 1,
+                                                "z": 1
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "index": 25,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "SYMBOL_Instance": {
+                                        "SYMBOL_name": "Tween 1",
+                                        "Instance_Name": "InstName",
+                                        "bitmap": {
+                                            "name": "0001",
+                                            "Position": {
+                                                "x": -45,
+                                                "y": -40
+                                            }
+                                        },
+                                        "symbolType": "graphic",
+                                        "firstFrame": 0,
+                                        "loop": "loop",
+                                        "transformationPoint": {
+                                            "x": 0,
+                                            "y": 0
+                                        },
+                                        "Matrix3D": {
+                                            "m00": 1,
+                                            "m01": 0,
+                                            "m02": 0,
+                                            "m03": 0,
+                                            "m10": 0,
+                                            "m11": 1,
+                                            "m12": 0,
+                                            "m13": 0,
+                                            "m20": 0,
+                                            "m21": 0,
+                                            "m22": 1,
+                                            "m23": 0,
+                                            "m30": 0,
+                                            "m31": -17.85,
+                                            "m32": 0,
+                                            "m33": 1
+                                        },
+                                        "DecomposedMatrix": {
+                                            "Position": {
+                                                "x": 0,
+                                                "y": -17.85,
+                                                "z": 0
+                                            },
+                                            "Rotation": {
+                                                "x": 0,
+                                                "y": -0,
+                                                "z": 0
+                                            },
+                                            "Scaling": {
+                                                "x": 1,
+                                                "y": 1,
+                                                "z": 1
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "index": 26,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "SYMBOL_Instance": {
+                                        "SYMBOL_name": "Tween 1",
+                                        "Instance_Name": "InstName",
+                                        "bitmap": {
+                                            "name": "0001",
+                                            "Position": {
+                                                "x": -45,
+                                                "y": -40
+                                            }
+                                        },
+                                        "symbolType": "graphic",
+                                        "firstFrame": 0,
+                                        "loop": "loop",
+                                        "transformationPoint": {
+                                            "x": 0,
+                                            "y": 0
+                                        },
+                                        "Matrix3D": {
+                                            "m00": 1,
+                                            "m01": 0,
+                                            "m02": 0,
+                                            "m03": 0,
+                                            "m10": 0,
+                                            "m11": 1,
+                                            "m12": 0,
+                                            "m13": 0,
+                                            "m20": 0,
+                                            "m21": 0,
+                                            "m22": 1,
+                                            "m23": 0,
+                                            "m30": 0,
+                                            "m31": -16.65,
+                                            "m32": 0,
+                                            "m33": 1
+                                        },
+                                        "DecomposedMatrix": {
+                                            "Position": {
+                                                "x": 0,
+                                                "y": -16.65,
+                                                "z": 0
+                                            },
+                                            "Rotation": {
+                                                "x": 0,
+                                                "y": -0,
+                                                "z": 0
+                                            },
+                                            "Scaling": {
+                                                "x": 1,
+                                                "y": 1,
+                                                "z": 1
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "index": 27,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "SYMBOL_Instance": {
+                                        "SYMBOL_name": "Tween 1",
+                                        "Instance_Name": "InstName",
+                                        "bitmap": {
+                                            "name": "0001",
+                                            "Position": {
+                                                "x": -45,
+                                                "y": -40
+                                            }
+                                        },
+                                        "symbolType": "graphic",
+                                        "firstFrame": 0,
+                                        "loop": "loop",
+                                        "transformationPoint": {
+                                            "x": 0,
+                                            "y": 0
+                                        },
+                                        "Matrix3D": {
+                                            "m00": 1,
+                                            "m01": 0,
+                                            "m02": 0,
+                                            "m03": 0,
+                                            "m10": 0,
+                                            "m11": 1,
+                                            "m12": 0,
+                                            "m13": 0,
+                                            "m20": 0,
+                                            "m21": 0,
+                                            "m22": 1,
+                                            "m23": 0,
+                                            "m30": 0,
+                                            "m31": -15.5,
+                                            "m32": 0,
+                                            "m33": 1
+                                        },
+                                        "DecomposedMatrix": {
+                                            "Position": {
+                                                "x": 0,
+                                                "y": -15.5,
+                                                "z": 0
+                                            },
+                                            "Rotation": {
+                                                "x": 0,
+                                                "y": -0,
+                                                "z": 0
+                                            },
+                                            "Scaling": {
+                                                "x": 1,
+                                                "y": 1,
+                                                "z": 1
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "index": 28,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "SYMBOL_Instance": {
+                                        "SYMBOL_name": "Tween 1",
+                                        "Instance_Name": "InstName",
+                                        "bitmap": {
+                                            "name": "0001",
+                                            "Position": {
+                                                "x": -45,
+                                                "y": -40
+                                            }
+                                        },
+                                        "symbolType": "graphic",
+                                        "firstFrame": 0,
+                                        "loop": "loop",
+                                        "transformationPoint": {
+                                            "x": 0,
+                                            "y": 0
+                                        },
+                                        "Matrix3D": {
+                                            "m00": 1,
+                                            "m01": 0,
+                                            "m02": 0,
+                                            "m03": 0,
+                                            "m10": 0,
+                                            "m11": 1,
+                                            "m12": 0,
+                                            "m13": 0,
+                                            "m20": 0,
+                                            "m21": 0,
+                                            "m22": 1,
+                                            "m23": 0,
+                                            "m30": 0,
+                                            "m31": -14.3,
+                                            "m32": 0,
+                                            "m33": 1
+                                        },
+                                        "DecomposedMatrix": {
+                                            "Position": {
+                                                "x": 0,
+                                                "y": -14.3,
+                                                "z": 0
+                                            },
+                                            "Rotation": {
+                                                "x": 0,
+                                                "y": -0,
+                                                "z": 0
+                                            },
+                                            "Scaling": {
+                                                "x": 1,
+                                                "y": 1,
+                                                "z": 1
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "index": 29,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "SYMBOL_Instance": {
+                                        "SYMBOL_name": "Tween 1",
+                                        "Instance_Name": "InstName",
+                                        "bitmap": {
+                                            "name": "0001",
+                                            "Position": {
+                                                "x": -45,
+                                                "y": -40
+                                            }
+                                        },
+                                        "symbolType": "graphic",
+                                        "firstFrame": 0,
+                                        "loop": "loop",
+                                        "transformationPoint": {
+                                            "x": 0,
+                                            "y": 0
+                                        },
+                                        "Matrix3D": {
+                                            "m00": 1,
+                                            "m01": 0,
+                                            "m02": 0,
+                                            "m03": 0,
+                                            "m10": 0,
+                                            "m11": 1,
+                                            "m12": 0,
+                                            "m13": 0,
+                                            "m20": 0,
+                                            "m21": 0,
+                                            "m22": 1,
+                                            "m23": 0,
+                                            "m30": 0,
+                                            "m31": -13.1,
+                                            "m32": 0,
+                                            "m33": 1
+                                        },
+                                        "DecomposedMatrix": {
+                                            "Position": {
+                                                "x": 0,
+                                                "y": -13.1,
+                                                "z": 0
+                                            },
+                                            "Rotation": {
+                                                "x": 0,
+                                                "y": -0,
+                                                "z": 0
+                                            },
+                                            "Scaling": {
+                                                "x": 1,
+                                                "y": 1,
+                                                "z": 1
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "index": 30,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "SYMBOL_Instance": {
+                                        "SYMBOL_name": "Tween 1",
+                                        "Instance_Name": "InstName",
+                                        "bitmap": {
+                                            "name": "0001",
+                                            "Position": {
+                                                "x": -45,
+                                                "y": -40
+                                            }
+                                        },
+                                        "symbolType": "graphic",
+                                        "firstFrame": 0,
+                                        "loop": "loop",
+                                        "transformationPoint": {
+                                            "x": 0,
+                                            "y": 0
+                                        },
+                                        "Matrix3D": {
+                                            "m00": 1,
+                                            "m01": 0,
+                                            "m02": 0,
+                                            "m03": 0,
+                                            "m10": 0,
+                                            "m11": 1,
+                                            "m12": 0,
+                                            "m13": 0,
+                                            "m20": 0,
+                                            "m21": 0,
+                                            "m22": 1,
+                                            "m23": 0,
+                                            "m30": 0,
+                                            "m31": -11.9,
+                                            "m32": 0,
+                                            "m33": 1
+                                        },
+                                        "DecomposedMatrix": {
+                                            "Position": {
+                                                "x": 0,
+                                                "y": -11.9,
+                                                "z": 0
+                                            },
+                                            "Rotation": {
+                                                "x": 0,
+                                                "y": -0,
+                                                "z": 0
+                                            },
+                                            "Scaling": {
+                                                "x": 1,
+                                                "y": 1,
+                                                "z": 1
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "index": 31,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "SYMBOL_Instance": {
+                                        "SYMBOL_name": "Tween 1",
+                                        "Instance_Name": "InstName",
+                                        "bitmap": {
+                                            "name": "0001",
+                                            "Position": {
+                                                "x": -45,
+                                                "y": -40
+                                            }
+                                        },
+                                        "symbolType": "graphic",
+                                        "firstFrame": 0,
+                                        "loop": "loop",
+                                        "transformationPoint": {
+                                            "x": 0,
+                                            "y": 0
+                                        },
+                                        "Matrix3D": {
+                                            "m00": 1,
+                                            "m01": 0,
+                                            "m02": 0,
+                                            "m03": 0,
+                                            "m10": 0,
+                                            "m11": 1,
+                                            "m12": 0,
+                                            "m13": 0,
+                                            "m20": 0,
+                                            "m21": 0,
+                                            "m22": 1,
+                                            "m23": 0,
+                                            "m30": 0,
+                                            "m31": -10.7,
+                                            "m32": 0,
+                                            "m33": 1
+                                        },
+                                        "DecomposedMatrix": {
+                                            "Position": {
+                                                "x": 0,
+                                                "y": -10.7,
+                                                "z": 0
+                                            },
+                                            "Rotation": {
+                                                "x": 0,
+                                                "y": -0,
+                                                "z": 0
+                                            },
+                                            "Scaling": {
+                                                "x": 1,
+                                                "y": 1,
+                                                "z": 1
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "index": 32,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "SYMBOL_Instance": {
+                                        "SYMBOL_name": "Tween 1",
+                                        "Instance_Name": "InstName",
+                                        "bitmap": {
+                                            "name": "0001",
+                                            "Position": {
+                                                "x": -45,
+                                                "y": -40
+                                            }
+                                        },
+                                        "symbolType": "graphic",
+                                        "firstFrame": 0,
+                                        "loop": "loop",
+                                        "transformationPoint": {
+                                            "x": 0,
+                                            "y": 0
+                                        },
+                                        "Matrix3D": {
+                                            "m00": 1,
+                                            "m01": 0,
+                                            "m02": 0,
+                                            "m03": 0,
+                                            "m10": 0,
+                                            "m11": 1,
+                                            "m12": 0,
+                                            "m13": 0,
+                                            "m20": 0,
+                                            "m21": 0,
+                                            "m22": 1,
+                                            "m23": 0,
+                                            "m30": 0,
+                                            "m31": -9.5,
+                                            "m32": 0,
+                                            "m33": 1
+                                        },
+                                        "DecomposedMatrix": {
+                                            "Position": {
+                                                "x": 0,
+                                                "y": -9.5,
+                                                "z": 0
+                                            },
+                                            "Rotation": {
+                                                "x": 0,
+                                                "y": -0,
+                                                "z": 0
+                                            },
+                                            "Scaling": {
+                                                "x": 1,
+                                                "y": 1,
+                                                "z": 1
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "index": 33,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "SYMBOL_Instance": {
+                                        "SYMBOL_name": "Tween 1",
+                                        "Instance_Name": "InstName",
+                                        "bitmap": {
+                                            "name": "0001",
+                                            "Position": {
+                                                "x": -45,
+                                                "y": -40
+                                            }
+                                        },
+                                        "symbolType": "graphic",
+                                        "firstFrame": 0,
+                                        "loop": "loop",
+                                        "transformationPoint": {
+                                            "x": 0,
+                                            "y": 0
+                                        },
+                                        "Matrix3D": {
+                                            "m00": 1,
+                                            "m01": 0,
+                                            "m02": 0,
+                                            "m03": 0,
+                                            "m10": 0,
+                                            "m11": 1,
+                                            "m12": 0,
+                                            "m13": 0,
+                                            "m20": 0,
+                                            "m21": 0,
+                                            "m22": 1,
+                                            "m23": 0,
+                                            "m30": 0,
+                                            "m31": -8.35,
+                                            "m32": 0,
+                                            "m33": 1
+                                        },
+                                        "DecomposedMatrix": {
+                                            "Position": {
+                                                "x": 0,
+                                                "y": -8.35,
+                                                "z": 0
+                                            },
+                                            "Rotation": {
+                                                "x": 0,
+                                                "y": -0,
+                                                "z": 0
+                                            },
+                                            "Scaling": {
+                                                "x": 1,
+                                                "y": 1,
+                                                "z": 1
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "index": 34,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "SYMBOL_Instance": {
+                                        "SYMBOL_name": "Tween 1",
+                                        "Instance_Name": "InstName",
+                                        "bitmap": {
+                                            "name": "0001",
+                                            "Position": {
+                                                "x": -45,
+                                                "y": -40
+                                            }
+                                        },
+                                        "symbolType": "graphic",
+                                        "firstFrame": 0,
+                                        "loop": "loop",
+                                        "transformationPoint": {
+                                            "x": 0,
+                                            "y": 0
+                                        },
+                                        "Matrix3D": {
+                                            "m00": 1,
+                                            "m01": 0,
+                                            "m02": 0,
+                                            "m03": 0,
+                                            "m10": 0,
+                                            "m11": 1,
+                                            "m12": 0,
+                                            "m13": 0,
+                                            "m20": 0,
+                                            "m21": 0,
+                                            "m22": 1,
+                                            "m23": 0,
+                                            "m30": 0,
+                                            "m31": -7.15,
+                                            "m32": 0,
+                                            "m33": 1
+                                        },
+                                        "DecomposedMatrix": {
+                                            "Position": {
+                                                "x": 0,
+                                                "y": -7.15,
+                                                "z": 0
+                                            },
+                                            "Rotation": {
+                                                "x": 0,
+                                                "y": -0,
+                                                "z": 0
+                                            },
+                                            "Scaling": {
+                                                "x": 1,
+                                                "y": 1,
+                                                "z": 1
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "index": 35,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "SYMBOL_Instance": {
+                                        "SYMBOL_name": "Tween 1",
+                                        "Instance_Name": "InstName",
+                                        "bitmap": {
+                                            "name": "0001",
+                                            "Position": {
+                                                "x": -45,
+                                                "y": -40
+                                            }
+                                        },
+                                        "symbolType": "graphic",
+                                        "firstFrame": 0,
+                                        "loop": "loop",
+                                        "transformationPoint": {
+                                            "x": 0,
+                                            "y": 0
+                                        },
+                                        "Matrix3D": {
+                                            "m00": 1,
+                                            "m01": 0,
+                                            "m02": 0,
+                                            "m03": 0,
+                                            "m10": 0,
+                                            "m11": 1,
+                                            "m12": 0,
+                                            "m13": 0,
+                                            "m20": 0,
+                                            "m21": 0,
+                                            "m22": 1,
+                                            "m23": 0,
+                                            "m30": 0,
+                                            "m31": -5.95,
+                                            "m32": 0,
+                                            "m33": 1
+                                        },
+                                        "DecomposedMatrix": {
+                                            "Position": {
+                                                "x": 0,
+                                                "y": -5.95,
+                                                "z": 0
+                                            },
+                                            "Rotation": {
+                                                "x": 0,
+                                                "y": -0,
+                                                "z": 0
+                                            },
+                                            "Scaling": {
+                                                "x": 1,
+                                                "y": 1,
+                                                "z": 1
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "index": 36,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "SYMBOL_Instance": {
+                                        "SYMBOL_name": "Tween 1",
+                                        "Instance_Name": "InstName",
+                                        "bitmap": {
+                                            "name": "0001",
+                                            "Position": {
+                                                "x": -45,
+                                                "y": -40
+                                            }
+                                        },
+                                        "symbolType": "graphic",
+                                        "firstFrame": 0,
+                                        "loop": "loop",
+                                        "transformationPoint": {
+                                            "x": 0,
+                                            "y": 0
+                                        },
+                                        "Matrix3D": {
+                                            "m00": 1,
+                                            "m01": 0,
+                                            "m02": 0,
+                                            "m03": 0,
+                                            "m10": 0,
+                                            "m11": 1,
+                                            "m12": 0,
+                                            "m13": 0,
+                                            "m20": 0,
+                                            "m21": 0,
+                                            "m22": 1,
+                                            "m23": 0,
+                                            "m30": 0,
+                                            "m31": -4.75,
+                                            "m32": 0,
+                                            "m33": 1
+                                        },
+                                        "DecomposedMatrix": {
+                                            "Position": {
+                                                "x": 0,
+                                                "y": -4.75,
+                                                "z": 0
+                                            },
+                                            "Rotation": {
+                                                "x": 0,
+                                                "y": -0,
+                                                "z": 0
+                                            },
+                                            "Scaling": {
+                                                "x": 1,
+                                                "y": 1,
+                                                "z": 1
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "index": 37,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "SYMBOL_Instance": {
+                                        "SYMBOL_name": "Tween 1",
+                                        "Instance_Name": "InstName",
+                                        "bitmap": {
+                                            "name": "0001",
+                                            "Position": {
+                                                "x": -45,
+                                                "y": -40
+                                            }
+                                        },
+                                        "symbolType": "graphic",
+                                        "firstFrame": 0,
+                                        "loop": "loop",
+                                        "transformationPoint": {
+                                            "x": 0,
+                                            "y": 0
+                                        },
+                                        "Matrix3D": {
+                                            "m00": 1,
+                                            "m01": 0,
+                                            "m02": 0,
+                                            "m03": 0,
+                                            "m10": 0,
+                                            "m11": 1,
+                                            "m12": 0,
+                                            "m13": 0,
+                                            "m20": 0,
+                                            "m21": 0,
+                                            "m22": 1,
+                                            "m23": 0,
+                                            "m30": 0,
+                                            "m31": -3.55,
+                                            "m32": 0,
+                                            "m33": 1
+                                        },
+                                        "DecomposedMatrix": {
+                                            "Position": {
+                                                "x": 0,
+                                                "y": -3.55,
+                                                "z": 0
+                                            },
+                                            "Rotation": {
+                                                "x": 0,
+                                                "y": -0,
+                                                "z": 0
+                                            },
+                                            "Scaling": {
+                                                "x": 1,
+                                                "y": 1,
+                                                "z": 1
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "index": 38,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "SYMBOL_Instance": {
+                                        "SYMBOL_name": "Tween 1",
+                                        "Instance_Name": "InstName",
+                                        "bitmap": {
+                                            "name": "0001",
+                                            "Position": {
+                                                "x": -45,
+                                                "y": -40
+                                            }
+                                        },
+                                        "symbolType": "graphic",
+                                        "firstFrame": 0,
+                                        "loop": "loop",
+                                        "transformationPoint": {
+                                            "x": 0,
+                                            "y": 0
+                                        },
+                                        "Matrix3D": {
+                                            "m00": 1,
+                                            "m01": 0,
+                                            "m02": 0,
+                                            "m03": 0,
+                                            "m10": 0,
+                                            "m11": 1,
+                                            "m12": 0,
+                                            "m13": 0,
+                                            "m20": 0,
+                                            "m21": 0,
+                                            "m22": 1,
+                                            "m23": 0,
+                                            "m30": 0,
+                                            "m31": -2.4,
+                                            "m32": 0,
+                                            "m33": 1
+                                        },
+                                        "DecomposedMatrix": {
+                                            "Position": {
+                                                "x": 0,
+                                                "y": -2.4,
+                                                "z": 0
+                                            },
+                                            "Rotation": {
+                                                "x": 0,
+                                                "y": -0,
+                                                "z": 0
+                                            },
+                                            "Scaling": {
+                                                "x": 1,
+                                                "y": 1,
+                                                "z": 1
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "index": 39,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "SYMBOL_Instance": {
+                                        "SYMBOL_name": "Tween 1",
+                                        "Instance_Name": "InstName",
+                                        "bitmap": {
+                                            "name": "0001",
+                                            "Position": {
+                                                "x": -45,
+                                                "y": -40
+                                            }
+                                        },
+                                        "symbolType": "graphic",
+                                        "firstFrame": 0,
+                                        "loop": "loop",
+                                        "transformationPoint": {
+                                            "x": 0,
+                                            "y": 0
+                                        },
+                                        "Matrix3D": {
+                                            "m00": 1,
+                                            "m01": 0,
+                                            "m02": 0,
+                                            "m03": 0,
+                                            "m10": 0,
+                                            "m11": 1,
+                                            "m12": 0,
+                                            "m13": 0,
+                                            "m20": 0,
+                                            "m21": 0,
+                                            "m22": 1,
+                                            "m23": 0,
+                                            "m30": 0,
+                                            "m31": -1.2,
+                                            "m32": 0,
+                                            "m33": 1
+                                        },
+                                        "DecomposedMatrix": {
+                                            "Position": {
+                                                "x": 0,
+                                                "y": -1.2,
+                                                "z": 0
+                                            },
+                                            "Rotation": {
+                                                "x": 0,
+                                                "y": -0,
+                                                "z": 0
+                                            },
+                                            "Scaling": {
+                                                "x": 1,
+                                                "y": 1,
+                                                "z": 1
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "index": 40,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "SYMBOL_Instance": {
+                                        "SYMBOL_name": "Tween 1",
+                                        "Instance_Name": "InstName",
+                                        "bitmap": {
+                                            "name": "0001",
+                                            "Position": {
+                                                "x": -45,
+                                                "y": -40
+                                            }
+                                        },
+                                        "symbolType": "graphic",
+                                        "firstFrame": 21,
+                                        "loop": "loop",
+                                        "transformationPoint": {
+                                            "x": 0,
+                                            "y": 0
+                                        },
+                                        "Matrix3D": {
+                                            "m00": 1,
+                                            "m01": 0,
+                                            "m02": 0,
+                                            "m03": 0,
+                                            "m10": 0,
+                                            "m11": 1,
+                                            "m12": 0,
+                                            "m13": 0,
+                                            "m20": 0,
+                                            "m21": 0,
+                                            "m22": 1,
+                                            "m23": 0,
+                                            "m30": 0,
+                                            "m31": 0,
+                                            "m32": 0,
+                                            "m33": 1
+                                        },
+                                        "DecomposedMatrix": {
+                                            "Position": {
+                                                "x": 0,
+                                                "y": 0,
+                                                "z": 0
+                                            },
+                                            "Rotation": {
+                                                "x": 0,
+                                                "y": -0,
+                                                "z": 0
+                                            },
+                                            "Scaling": {
+                                                "x": 1,
+                                                "y": 1,
+                                                "z": 1
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "SYMBOL_DICTIONARY": {
+        "Symbols": []
+    },
+    "metadata": {
+        "framerate": 30
+    }
+}
