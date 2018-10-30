@@ -66,3 +66,5 @@ typings/
 
 # Build
 build/
+
+.DS_Store
